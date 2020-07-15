@@ -14,8 +14,6 @@ Experience
 
 **Team Leader at Greentech(knowledge sharing community)** (2016-Present)
 
-- Greentech was formed by Engineering students at Technological University (Mawlamyine).
-
 
 Skills
 ------
