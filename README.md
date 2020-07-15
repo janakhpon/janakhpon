@@ -3,14 +3,12 @@ Zin Minn Htut Oo (Ja Nakh Pon)
 
 #### A Developer || An Otaku, Dog Dad 🐕, Poet(sometimes), Photographer(sometimes), love creation.
 ###### [ [janakhpon.github.io](https://janakhpon.github.io/) ]
-###### Golang Lover | <img src="https://i.ya-webdesign.com/images/golang-vector-programming.png" alt="Golang">
+###### Gopher <img src="https://i.ya-webdesign.com/images/golang-vector-programming.png" alt="Golang">
 
 
 Experience
 ---------
 **Web Developer, Thibi.co** (June 2020 - present)
-
-- Working as a web developer at Thibi.co using `Nodejs` and `ReactJs`.
 
 **Internship, Thibi.co** (April - May 2020)
 
