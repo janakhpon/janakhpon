@@ -1,7 +1,7 @@
 Zin Minn Htut Oo (Ja Nakh Pon)
 =============================
 
-#### A Developer || An Otaku, Dog Dad 🐕, Poet(sometimes), Photographer(sometimes), love creation.
+#### A Developer || An Otaku, Dog Dad 🐕, Poet(sometimes), Photographer(sometimes).
 ###### [ [janakhpon.github.io](https://janakhpon.github.io/) ]
 ###### Gopher <img src="https://i.ya-webdesign.com/images/golang-vector-programming.png" alt="Golang">
 
@@ -19,9 +19,9 @@ Skills
 ------
 **Programming Languages:** Golang, JavaScript, Typescript, Python, Rustlang 
 
-**Frontend Frameworks:** ReactJS, VueJS, Gatsby.js
+**Frontend Frameworks:** ReactJS, VueJS, Gatsby.js, Next.js
 
-**Backend Frameworks:** Gin-gonic, Fiber, echo, expressjs, Next.js, rocket, django, flask
+**Backend Frameworks:** Gin-gonic, Fiber, echo, expressjs, rocket, django, flask
 
 **Databases:** MongoDB, Postgresql, Redis, Elasticsearch, MySql, SQLite, Firebase
 
