@@ -12,7 +12,7 @@ Experience
 
 **Internship, Thibi.co** (April - May 2020)
 
-**Team Leader at Greentech(knowledge sharing community)** (2016-Present)
+**Team Leader, Greentech(knowledge sharing community)** (2016-Present)
 
 
 Skills
