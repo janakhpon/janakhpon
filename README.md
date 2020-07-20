@@ -3,8 +3,7 @@ Zin Minn Htut Oo (Ja Nakh Pon)
 
 ### A Developer || An Otaku, Dog Dad 🐕, Poet(sometimes), Photographer(sometimes).
 ##### [ [janakhpon.github.io](https://janakhpon.github.io/) ]
-##### Also a Gopher
-###### <img src="gopher.jpg" alt="Golang">
+###### Also a Gopher <img src="gopher.jpg" alt="Golang">
 
 ##
 ##
