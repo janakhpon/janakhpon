@@ -2,7 +2,7 @@ Zin Minn Htut Oo (Ja Nakh Pon)
 =============================
 
 ### A Developer || An Otaku, Dog Dad 🐕, Poet(sometimes), Photographer(sometimes).
-##### [ [janakhpon.github.io](https://janakhpon.github.io/) ]
+##### 👉 [ [janakhpon.github.io](https://janakhpon.github.io/) ]
 ##### Also a Gopher
 ###### <img src="https://golang.org/doc/gopher/appenginegophercolor.jpg" alt="Golang">
 
@@ -15,7 +15,7 @@ Experience
 
 **Internship, Thibi.co** (April - May 2020)
 
-**Team Leader, Greentech(knowledge sharing community)** (2016-Present)
+**Team Leader, Greentech(knowledge sharing community)** (2016 - Present)
 
 
 Skills
