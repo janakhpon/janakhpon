@@ -26,7 +26,7 @@ Skills
 
 **Databases:** MongoDB, Postgresql, Redis, Elasticsearch, MySql, SQLite, Firebase
 
-**Deployment:** heroku, netlify, vercel, awardspace, 000webhost
+**Platforms:** Linux, Windows, Docker, Heroku, netlify, vercel, awardspace, 000webhost
 
 
 Education
