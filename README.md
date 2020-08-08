@@ -36,7 +36,6 @@ Education
 
 
 ##
-##
 
 Social Media Accounts
 ---------------------
