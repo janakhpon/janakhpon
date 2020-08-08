@@ -36,7 +36,9 @@ Education
 
 
 
-### Connect with me:
+
+Social Media Accounts
+---------------------
 
 [<img align="left" alt="Ja Nakh Pon | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/chan.htut.5/)
 [<img align="left" alt="Ja Nakh Pon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ja_nakh)
