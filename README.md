@@ -2,7 +2,6 @@ Zin Minn Htut Oo (Ja Nakh Pon)
 =============================
 
 ### A Developer | A Gopher | An Otaku, Dog Dad 🐕, Poet(sometimes), Photographer(sometimes).
-###### <img src="https://golang.org/doc/gopher/appenginegophercolor.jpg" alt="Golang">
 
 ##
 ##
@@ -36,6 +35,15 @@ Education
 - Expected graduation in 2021
 
 
+
+### Connect with me:
+
+[<img align="left" alt="Ja Nakh Pon | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Ja Nakh Pon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Ja Nakh Pon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ja Nakh Pon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
 
 
 <!--
