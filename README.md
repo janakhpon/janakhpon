@@ -1,9 +1,8 @@
 Zin Minn Htut Oo (Ja Nakh Pon)
 =============================
 
-### A Developer | A Gopher | An Otaku, Dog Dad 🐕, Poet(sometimes), Photographer(sometimes).
+#### A Developer | A Gopher | An Otaku, Dog Dad 🐕, Poet (sometimes), Photographer (sometimes).
 
-##
 ##
 
 Experience
@@ -12,14 +11,14 @@ Experience
 
 **Internship, Thibi.co** (April - May 2020)
 
-**Team Leader, Greentech(knowledge sharing community)** (2016 - Present)
+**Team Leader, Greentech Community** (2016 - Present)
 
 
 Skills
 ------
 **Programming Languages:** Golang, JavaScript, Typescript, Python, Rustlang 
 
-**Frontend Frameworks:** ReactJS, VueJS, Gatsby.js, Next.js
+**Frontend Frameworks:** ReactJS, SvelteJS, VueJS, Gatsby.js, Next.js
 
 **Backend Frameworks:** Gin-gonic, Fiber, echo, expressjs, rocket, django, flask
 
@@ -35,7 +34,7 @@ Education
 - Expected graduation in 2021
 
 
-##
+<!-- ##
 
 Social Media Accounts
 ---------------------
@@ -44,7 +43,7 @@ Social Media Accounts
 [<img align="left" alt="Ja Nakh Pon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ja_nakh)
 [<img align="left" alt="Ja Nakh Pon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/zin-minn-htut-oo-385651136/)
 
-<br />
+<br /> -->
 
 
 <!--
