@@ -1,7 +1,7 @@
 Zin Min Htut Oo (Ja Nakh Pon)
 =============================
 
-#### A Developer | A Gopher | An Otaku, Dog Dad 🐕, Poet (sometimes), Photographer (sometimes).
+#### A Developer | A Gopher | Dog Dad 🐕, Poet (sometimes), Photographer (sometimes).
 
 ##
 
