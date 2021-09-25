@@ -33,7 +33,7 @@ Education
 
 - Expected graduation in 2021
 
-[more ?](https://janakhpon.gitlab.io/)
+<!-- [more ?](https://janakhpon.gitlab.io/) -->
 
 <!-- ##
 
