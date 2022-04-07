@@ -16,15 +16,13 @@ Experience
 
 Skills
 ------
-**Programming Languages:** Golang, JavaScript, Typescript, Python, Rustlang 
+**Programming Languages:** Golang, JavaScript, Typescript, Python,
 
-**Frontend Frameworks:** ReactJS, SvelteJS, VueJS, Gatsby.js, Next.js
+**Frontend Frameworks:** ReactJS, Next.js
 
-**Backend Frameworks:** Gin-gonic, Fiber, echo, expressjs, rocket, django, flask
+**Backend Frameworks:** Gin-gonic, Fiber, echo, expressjs, nestjs
 
 **Databases:** MongoDB, Postgresql, Redis, Elasticsearch, MySql, SQLite, Firebase
-
-**Platforms:** Linux, Windows, Docker, Heroku, netlify, vercel, awardspace, 000webhost
 
 
 Education
