@@ -1,4 +1,4 @@
-Zin Min Htut Oo (Ja Nakh Pon)
+Ja Nakh Pon
 =============================
 
 #### A Developer | A Gopher | Dog Dad 🐕, Poet (sometimes), Photographer (sometimes).
@@ -27,7 +27,7 @@ Skills
 
 Education
 ---------
-**B.E. in Information Technology, Technological University (Mawlamyine)** (2014-2020)
+**B.E. in Information Technology, Technological University** (2014-2020)
 
 - Expected graduation in 2021
 
