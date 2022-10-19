@@ -1,7 +1,7 @@
 Ja Nakh Pon
 =============================
 
-#### A Developer | A Gopher | Dog Dad 🐕, Poet (sometimes), Photographer (sometimes).
+#### A Developer, Dog Dad 🐕 and a Hobbyist Photographer.
 
 ##
 
@@ -20,16 +20,15 @@ Skills
 
 **Frontend Frameworks:** ReactJS, Next.js
 
-**Backend Frameworks:** Gin-gonic, Fiber, echo, expressjs, nestjs
 
 **Databases:** MongoDB, Postgresql, Redis, Elasticsearch, MySql, SQLite, Firebase
 
 
-Education
+<!-- Education
 ---------
 **B.E. in Information Technology, Technological University** (2014-2020)
 
-- Expected graduation in 2021
+- Expected graduation in 2021 -->
 
 <!-- [more ?](https://janakhpon.gitlab.io/) -->
 
