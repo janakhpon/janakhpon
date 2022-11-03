@@ -1,7 +1,7 @@
 Ja Nakh Pon
 =============================
 
-#### A Developer, Dog Dad 🐕 and a Hobbyist Photographer.
+#### A Developer & A Dog Dad 🐕.
 
 ##
 
