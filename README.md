@@ -1,7 +1,7 @@
 Ja Nakh Pon
 =============================
 
-#### A Developer & A Dog Dad 🐕.
+#### A Developer/ Dog Dad 🐕.
 
 ##
 
