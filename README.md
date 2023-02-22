@@ -11,7 +11,7 @@ Experience
 
 **Internship, Thibi.co** (April - May 2020)
 
-**Team Leader, Greentech Community** (2016 - Present)
+<!-- **Team Leader, Greentech Community** (2016 - Present) -->
 
 
 Skills
