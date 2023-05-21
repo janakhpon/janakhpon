@@ -18,8 +18,7 @@ Skills
 ------
 **Programming Languages:** Golang, JavaScript, Typescript, Python,
 
-**Frontend Frameworks:** ReactJS, Next.js
-
+**Frontend Frameworks:** Next.js, Sveltekit
 
 **Databases:** MongoDB, Postgresql, Redis, Elasticsearch, MySql, SQLite, Firebase
 
