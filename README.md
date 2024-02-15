@@ -7,7 +7,7 @@ Ja Nakh Pon
 
 Experience
 ---------
-**Web Developer, Thibi.co** (June 2020 - present)
+**Full Stack Developer, Thibi.co** (June 2020 - present)
 
 **Internship, Thibi.co** (April - May 2020)
 
