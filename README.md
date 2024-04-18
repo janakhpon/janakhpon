@@ -20,7 +20,11 @@ Skills
 
 **Frontend Frameworks:** Next.js, Sveltekit
 
+**Backend Frameworks:** Express.js, Gin-gonic, Fiber
+
 **Databases:** MongoDB, Postgresql, Redis, Elasticsearch, MySql, SQLite, Firebase
+
+**Other Platforms/Tools:** Have been using Linux personally and for work since 2015. Also have experience with Airtable, Mapbox, Directus, Strapi, GeoServer, CKAN, GitLab-Ci, Github-Actions, Docker, Kubernetes, PM2, Linode.
 
 
 <!-- Education
