@@ -16,7 +16,7 @@ Experience
 
 Skills
 ------
-**Programming Languages:** Golang, JavaScript, Typescript, Python,
+**Programming Languages:** Golang, JavaScript, Typescript, Python
 
 **Frontend Frameworks:** Next.js, Sveltekit
 
