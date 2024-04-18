@@ -24,7 +24,7 @@ Skills
 
 **Databases:** MongoDB, Postgresql, Redis, Elasticsearch, MySql, SQLite, Firebase
 
-**Other Platforms/Tools:** I've been using Linux personally and professionally since 2015.  I also have experience with Airtable, Mapbox, Directus, Strapi, GeoServer, CKAN, GitLab-Ci, Github-Actions, Docker, Kubernetes, PM2, and Linode.
+**Other Platforms/Tools:** I've been using Linux personally and professionally since 2015.  I also have experience with Airtable, Mapbox, Directus, Strapi, GeoServer, CKAN, GitLab-Ci, Github-Actions, Docker, Kubernetes, PM2, and managing/maintaining linux servers on Linode.
 
 
 <!-- Education
