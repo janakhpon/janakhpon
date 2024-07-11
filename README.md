@@ -7,7 +7,7 @@ Ja Nakh Pon
 
 Experience
 ---------
-**Full Stack Software Engineer, Thibi.co** (June 2020 - present)
+**Software Engineer, Thibi.co** (June 2020 - present)
 
 **Internship, Thibi.co** (April - May 2020)
 
