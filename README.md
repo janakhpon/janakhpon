@@ -54,7 +54,7 @@ I actively manage Ubuntu & Arch servers, contribute to open-source tools, and au
 
 - **Email**: minchanhtutoo@gmail.com  
 - **WhatsApp**: +66 659 632 883  
-- **Portfolio**: [thibi.co](https://thibi.co)  
+- **Portfolio**: [thibi.co](https://janakhpon.gitlab.io/)  
 - **GitHub**: [github.com/janakhpon](https://github.com/janakhpon)  
 - **GitLab**: [gitlab.com/janakhpon](https://gitlab.com/janakhpon)
 
