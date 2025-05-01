@@ -17,7 +17,7 @@
 
 - **Engineering Intern – Thibi.co**  
   *Apr – May 2020*  
-  Created Myanmar's first COVID-19 data dashboard using React, D3, and Leaflet.
+  Created COVID-19 data dashboard for Myanmar using React, D3, and Leaflet.
 
 ---
 
