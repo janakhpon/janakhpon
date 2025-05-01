@@ -1,27 +1,62 @@
-Ja Nakh Pon
-=============================
+# Ja Nakh Pon — Zin Min Htut Oo
 
-#### A Developer/ Dog Dad 🐕.
+### 🧑‍💻 Full Stack Developer
+#### 🐕 Dog Dad | 🐧 Linux Enthusiast
 
-##
+---
 
-Experience
----------
-**Full Stack Developer, Thibi.co** (June 2020 - present)
+### 👨‍💼 Experience
 
-**Internship, Thibi.co** (April - May 2020)
+- **Senior Full Stack Developer – [Thibi.co](https://thibi.co)**  
+  *Singapore | Sep 2023 – Present*  
+  Leading full-stack projects with modern frameworks and cloud-native deployments.  
 
+- **Full Stack Developer – Thibi.co**  
+  *Singapore | Jun 2020 – Sep 2023*  
+  Built and deployed scalable web apps, data dashboards, and GIS tools.  
 
-Skills
-------
-**Programming Languages:** Golang, JavaScript, Typescript, Python
+- **Engineering Intern – Thibi.co**  
+  *Apr – May 2020*  
+  Created Myanmar's first COVID-19 data dashboard using React, D3, and Leaflet.
 
-**Frontend:** Next.js, Sveltekit
+---
 
-**Backend:** Express.js, Gin-gonic, Echo, Fiber, Strapi CMS, Directus CMS, Baserow
+### 🧰 Skills & Tools
 
-**Databases:** MongoDB, Postgresql, DynamoDB, Redis, Elasticsearch, MySql, SQLite, Firebase
+**Languages**  
+Golang · JavaScript · TypeScript · Python · Shell Scripting
 
-**Other Platforms/Tools:** I've been using Linux personally and professionally since 2015.  I also have experience with Airtable, Mapbox, GeoServer, CKAN, GitLab-Ci, Github-Actions, Docker, Kubernetes, PM2, and managing/maintaining linux servers (Ubuntu, Arch) on Linode.
+**Frontend**  
+Next.js · SvelteKit · D3.js · Leaflet · Mapbox
 
+**Backend**  
+Express.js · Gin-Gonic · Echo · Fiber · Strapi CMS · Directus CMS · Baserow  
+Google Docs/Sheets as CMS
+
+**Databases**  
+PostgreSQL · MongoDB · Redis · DynamoDB · Elasticsearch · Firebase · MySQL · SQLite
+
+**DevOps & Tools**  
+Docker · Kubernetes · GitHub Actions · GitLab CI · PM2 · NGINX  
+Linux (Ubuntu, Arch) · Linux server management (since 2021)  
+GeoServer · CKAN · Airtable · Linode · Vercel
+
+---
+
+### 🐧 Linux & Open Source
+
+I've been using Linux personally and professionally since **2015**.  
+I actively manage Ubuntu & Arch servers, contribute to open-source tools, and automate workflows via cron jobs, PM2, and shell scripting.
+
+---
+
+### 📫 Contact
+
+- **Email**: minchanhtutoo@gmail.com  
+- **WhatsApp**: +66 659 632 883  
+- **Portfolio**: [thibi.co](https://thibi.co)  
+- **GitHub**: [github.com/janakhpon](https://github.com/janakhpon)  
+- **GitLab**: [gitlab.com/janakhpon](https://gitlab.com/janakhpon)
+
+---
 
