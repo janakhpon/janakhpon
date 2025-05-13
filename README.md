@@ -5,7 +5,8 @@
 
 ---
 
-### 👨‍💼 Experience
+
+<!-- ### 👨‍💼 Experience
 
 - **Senior Full Stack Developer – [Thibi.co](https://thibi.co)**  
   *Singapore | Sep 2023 – Present*  
@@ -17,7 +18,7 @@
 
 - **Engineering Intern – Thibi.co**  
   *Apr – May 2020*  
-  Created COVID-19 data dashboard for Myanmar using React, D3, and Leaflet.
+  Created COVID-19 data dashboard for Myanmar using React, D3, and Leaflet. -->
 
 ---
 
