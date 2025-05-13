@@ -31,7 +31,7 @@ Golang · JavaScript · TypeScript · Python · Shell Scripting
 Next.js · SvelteKit · D3.js · Leaflet · Mapbox
 
 **Backend**  
-Express.js · Gin-Gonic · Echo · Fiber · Strapi CMS · Directus CMS · Baserow  
+Express.js · Gin-Gonic · Echo · Fiber · Strapi CMS · Directus CMS · Baserow  . Airtable .
 Google Docs/Sheets as CMS
 
 **Databases**  
