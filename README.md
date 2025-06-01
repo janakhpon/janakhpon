@@ -1,57 +1,63 @@
 # Ja Nakh Pon — Zin Min Htut Oo
 
-### 🧑‍💻 Full Stack Developer
-#### 🐕 Dog Dad | 🐧 Linux Enthusiast
+### 🧑‍💻 Senior Full Stack Developer
+#### 🚀 Cloud Native Engineer | 🐧 Linux Enthusiast | 🐕 Dog Dad
 
 ---
 
-
-<!-- ### 👨‍💼 Experience
+### 👨‍💼 Professional Experience
 
 - **Senior Full Stack Developer – [Thibi.co](https://thibi.co)**  
-  *Singapore | Sep 2023 – Present*  
-  Leading full-stack projects with modern frameworks and cloud-native deployments.  
+  *Sep 2023 – Present*  
+  Leading development of scalable web applications using JavaScript, TypeScript, Go, and cloud-native technologies.
 
 - **Full Stack Developer – Thibi.co**  
-  *Singapore | Jun 2020 – Sep 2023*  
-  Built and deployed scalable web apps, data dashboards, and GIS tools.  
+  *Jun 2020 – Sep 2023*  
+  Developed and maintained applications using JavaScript/TypeScript stack, implemented data pipelines and web scraping solutions with Python.
 
 - **Engineering Intern – Thibi.co**  
   *Apr – May 2020*  
-  Created COVID-19 data dashboard for Myanmar using React, D3, and Leaflet. -->
+  Built web applications using JavaScript and TypeScript.
 
 ---
 
-### 🧰 Skills & Tools
+### 🧰 Technical Expertise
 
-**Languages**  
-Golang · JavaScript · TypeScript · Python · Shell Scripting
+**Core Languages**  
+TypeScript · JavaScript · Go · Python  · Shell Scripting
 
-**Frontend**  
+**Frontend Development**  
 Next.js · SvelteKit · D3.js · Leaflet · Mapbox
 
-**Backend**  
-Express.js · Serverless (nodejs, go), Gin-Gonic · Echo · Fiber · Strapi CMS · Directus CMS · Baserow  . Airtable .
-Google Docs/Sheets as CMS
+**Backend & APIs**  
+Express.js · Gin-Gonic · Echo · Fiber · Serverless Architecture
+Strapi CMS · Directus CMS · Baserow · Airtable · Google Workspace Integration
 
-**Databases**  
-PostgreSQL · MongoDB · Redis · DynamoDB · Elasticsearch · Firebase · MySQL · SQLite
+**Cloud & DevOps**  
+AWS (EKS, ECS, EC2, S3, SQS, SNS, EventBridge) · Linode · Elest.io
+Docker · Kubernetes · GitHub Actions · GitLab CI · NGINX
+Linux Server Management · Infrastructure as Code
 
-**DevOps & Tools**  
-Docker · Kubernetes · GitHub Actions · GitLab CI · PM2 · NGINX  
-Linux (Ubuntu, Arch) · Linux server management (since 2021)  
-GeoServer · CKAN · Airtable · Linode · Vercel
+**Data Storage**  
+PostgreSQL · MongoDB · Redis · DynamoDB · Elasticsearch · Firebase · MySQL
 
 ---
+
+### 🎓 Technical Journey
+
+Started with systems programming in C/C++ during university studies, specialized in Natural Language Processing with Python for thesis work. Evolved into full-stack development with JavaScript/TypeScript, and currently focusing on cloud-native development with Go. Passionate about building scalable, maintainable software solutions.
 
 ### 🐧 Linux & Open Source
 
-I've been using Linux personally and professionally since **2015**.  
-I actively manage Ubuntu & Arch servers, contribute to open-source tools, and automate workflows via cron jobs, PM2, and shell scripting.
+Daily Linux user since 2015 (Ubuntu, Arch). Experienced in:
+- Server administration and deployment automation
+- Infrastructure management and monitoring
+- Shell scripting and process automation
+- Contributing to open-source projects
 
 ---
 
-### 📫 Contact
+### 📫 Contact & Profiles
 
 - **Email**: minchanhtutoo@gmail.com  
 - **WhatsApp**: +66 659 632 883  
