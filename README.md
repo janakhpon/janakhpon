@@ -5,7 +5,8 @@
 
 ---
 
-### 👨‍💼 Professional Experience
+
+<!-- ### 👨‍💼 Professional Experience
 
 - **Senior Full Stack Developer – [Thibi.co](https://thibi.co)**  
   *Sep 2023 – Present*  
@@ -41,7 +42,7 @@ Linux Server Management · Infrastructure as Code
 **Data Storage**  
 PostgreSQL · MongoDB · Redis · DynamoDB · Elasticsearch · Firebase · MySQL
 
----
+--- -->
 
 ### 🎓 Technical Journey
 
@@ -55,15 +56,5 @@ Daily Linux user since 2015 (Ubuntu, Arch). Experienced in:
 - Shell scripting and process automation
 - Contributing to open-source projects
 
----
-
-
-<!-- ### 📫 Contact & Profiles
-
-- **Email**: minchanhtutoo@gmail.com  
-- **WhatsApp**: +66 659 632 883  
-- **Portfolio**: [janakhpon.gitlab.io](https://janakhpon.gitlab.io/)  
-- **GitHub**: [github.com/janakhpon](https://github.com/janakhpon)  
-- **GitLab**: [gitlab.com/janakhpon](https://gitlab.com/janakhpon) -->
 ---
 
