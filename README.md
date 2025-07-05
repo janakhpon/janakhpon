@@ -57,13 +57,13 @@ Daily Linux user since 2015 (Ubuntu, Arch). Experienced in:
 
 ---
 
-### 📫 Contact & Profiles
+
+<!-- ### 📫 Contact & Profiles
 
 - **Email**: minchanhtutoo@gmail.com  
 - **WhatsApp**: +66 659 632 883  
 - **Portfolio**: [janakhpon.gitlab.io](https://janakhpon.gitlab.io/)  
 - **GitHub**: [github.com/janakhpon](https://github.com/janakhpon)  
-- **GitLab**: [gitlab.com/janakhpon](https://gitlab.com/janakhpon)
-
+- **GitLab**: [gitlab.com/janakhpon](https://gitlab.com/janakhpon) -->
 ---
 
