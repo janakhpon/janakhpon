@@ -46,7 +46,7 @@ PostgreSQL · MongoDB · Redis · DynamoDB · Elasticsearch · Firebase · MySQL
 
 ### 🎓 Technical Journey
 
-Started with systems programming in C/C++ during university studies, specialized in Natural Language Processing with Python for thesis work. Evolved into full-stack development with JavaScript/TypeScript, and currently focusing on cloud-native development with Go. Passionate about building scalable, maintainable software solutions.
+Started with systems programming in C/C++ during university studies, specialized in Natural Language Processing with Python for thesis work. Evolved into full-stack development with JavaScript/TypeScript, and currently focusing on cloud-native development with Go. Passionate about building scalable, maintainable, and open-source software solutions.
 
 ### 🐧 Linux & Open Source
 
