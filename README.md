@@ -1,60 +1,20 @@
-# Ja Nakh Pon — Zin Min Htut Oo
+# Zin Min Htut Oo (Ja Nakh Pon)
 
-### 🧑‍💻 Senior Full Stack Developer
-#### 🚀 Cloud Native Engineer | 🐧 Linux Enthusiast | 🐕 Dog Dad
-
----
-
-
-<!-- ### 👨‍💼 Professional Experience
-
-- **Senior Full Stack Developer – [Thibi.co](https://thibi.co)**  
-  *Sep 2023 – Present*  
-  Leading development of scalable web applications using JavaScript, TypeScript, Go, and cloud-native technologies.
-
-- **Full Stack Developer – Thibi.co**  
-  *Jun 2020 – Sep 2023*  
-  Developed and maintained applications using JavaScript/TypeScript stack, implemented data pipelines and web scraping solutions with Python.
-
-- **Engineering Intern – Thibi.co**  
-  *Apr – May 2020*  
-  Built web applications using JavaScript and TypeScript.
+### Senior Full Stack Engineer | Linux Enthusiast
 
 ---
 
-### 🧰 Technical Expertise
+I’m a full-stack engineer with 5+ years of experience building scalable web applications and systems. I work across the stack—designing APIs, building frontends, managing databases, and deploying cloud-native solutions. I also enjoy mentoring teammates, reviewing code, and keeping projects clean and maintainable.
 
-**Core Languages**  
-TypeScript · JavaScript · Go · Python  · Shell Scripting
-
-**Frontend Development**  
-Next.js · SvelteKit · D3.js · Leaflet · Mapbox
-
-**Backend & APIs**  
-Express.js · Gin-Gonic · Echo · Fiber · Serverless Architecture
-Strapi CMS · Directus CMS · Baserow · Airtable · Google Workspace Integration
-
-**Cloud & DevOps**  
-AWS (EKS, ECS, EC2, S3, SQS, SNS, EventBridge) · Linode · Elest.io
-Docker · Kubernetes · GitHub Actions · GitLab CI · NGINX
-Linux Server Management · Infrastructure as Code
-
-**Data Storage**  
-PostgreSQL · MongoDB · Redis · DynamoDB · Elasticsearch · Firebase · MySQL
-
---- -->
-
-### 🎓 Technical Journey
-
-Started with systems programming in C/C++ during university studies, specialized in Natural Language Processing with Python for thesis work. Evolved into full-stack development with JavaScript/TypeScript, and currently focusing on cloud-native development with Go. Passionate about building scalable, maintainable, and open-source software solutions.
-
-### 🐧 Linux & Open Source
-
-Daily Linux user since 2015 (Ubuntu, Arch). Experienced in:
-- Server administration and deployment automation
-- Infrastructure management and monitoring
-- Shell scripting and process automation
-- Contributing to open-source projects
+Daily Linux user since 2015, contributor to open-source projects, dog dad, and anime fan.
 
 ---
 
+### Tech Stack
+
+**Frontend:** React, Next.js, SvelteKit  
+**Backend & APIs:** Node.js, NestJS, Express, Go, Python  
+**Databases:** PostgreSQL, MongoDB, Redis, DynamoDB  
+**Cloud & DevOps:** AWS (ECS, EKS, S3), Docker, Kubernetes, GitHub Actions, GitLab CI  
+
+---
