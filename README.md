@@ -6,7 +6,7 @@
 
 I’m a full-stack engineer with 5+ years of experience building scalable web applications and systems. I work across the stack—designing APIs, building frontends, managing databases, and deploying cloud-native solutions. I also enjoy mentoring teammates, reviewing code, and keeping projects clean and maintainable.
 
-Daily Linux user since 2015, contributor to open-source projects, dog dad, and anime fan.
+Daily Linux user since 2015, and contributor to open-source projects.
 
 ---
 
