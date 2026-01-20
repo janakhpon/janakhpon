@@ -1,20 +1,20 @@
-# Zin Min Htut Oo (Ja Nakh Pon)
+# Zin Min Htut Oo
 
-### Senior Full Stack Engineer | Linux Enthusiast
+Software Engineer from Myanmar with 6 years of experience. I build web apps, manage servers, and keep things simple. No over-engineering.
 
----
-
-I’m a full-stack engineer with 5+ years of experience building scalable web applications and systems. I work across the stack—designing APIs, building frontends, managing databases, and deploying cloud-native solutions. I also enjoy mentoring teammates, reviewing code, and keeping projects clean and maintainable.
-
-Daily Linux user since 2015, and contributor to open-source projects.
+Linux • Open Source • Full Stack
 
 ---
 
 ### Tech Stack
 
-**Frontend:** React, Next.js, SvelteKit  
-**Backend & APIs:** Node.js, NestJS, Express, Go, Python  
-**Databases:** PostgreSQL, MongoDB, Redis, DynamoDB  
-**Cloud & DevOps:** AWS (ECS, EKS, S3), Docker, Kubernetes, GitHub Actions, GitLab CI  
+- **Frontend:** React, Next.js, SvelteKit
+- **Backend:** Go, Node.js, Python
+- **Database:** PostgreSQL, MongoDB, Redis
+- **DevOps:** AWS, Docker, Kubernetes, Linux
 
 ---
+
+### Connect
+
+[Website](https://zinmin.com) • [LinkedIn](https://linkedin.com/in/zin-min-htut-oo-385651136) • [Twitter](https://twitter.com/ja_nakh)
