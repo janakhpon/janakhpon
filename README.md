@@ -11,7 +11,7 @@ Linux • Open Source • Full Stack
 - **Frontend:** React, Next.js, SvelteKit
 - **Backend:** Go, Node.js, Python
 - **Database:** PostgreSQL, MongoDB, Redis
-- **DevOps:** AWS, Docker, Kubernetes, Linux
+- **DevOps:** AWS, GCS, Linode, Vercel, Cloudflare, Docker, Kubernetes, Linux
 
 ---
 
