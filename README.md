@@ -1,7 +1,7 @@
 # Zin Min Htut Oo
 
-Software engineer from Myanmar with 6 years of experience. 
-I design and build apps that are accessible, scalable, secure, and keep things simple.  
+Software engineer from Myanmar with 6 years of experience.  
+I design and build **accessible, scalable, and secure** apps, set up infrastructure, and manage servers — while keeping things simple.  
 No over-engineering.
 
 Linux • Open Source • Full Stack
@@ -12,7 +12,7 @@ Linux • Open Source • Full Stack
 
 - **Frontend:** React, Next.js, SvelteKit, Expo  
 - **Backend:** Go, Node.js, Python  
-- **Database:** PostgreSQL, MongoDB, Redis  
+- **Databases:** PostgreSQL, MongoDB, Redis  
 - **DevOps:** AWS, GCS, Linode, Vercel, Cloudflare, Docker, Kubernetes, Linux
 
 ---
