@@ -8,7 +8,7 @@ Linux • Open Source • Full Stack
 
 ### Tech Stack
 
-- **Frontend:** React, Next.js, SvelteKit
+- **Frontend:** React, Next.js, SvelteKit, Expo
 - **Backend:** Go, Node.js, Python
 - **Database:** PostgreSQL, MongoDB, Redis
 - **DevOps:** AWS, GCS, Linode, Vercel, Cloudflare, Docker, Kubernetes, Linux
