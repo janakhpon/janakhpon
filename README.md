@@ -1,7 +1,6 @@
 # Zin Min Htut Oo
 
-Software engineer from Myanmar with 6 years of experience.  
-I design and build **accessible, scalable, and secure** apps, set up infrastructure, and manage servers — while keeping things simple.  
+Software engineer from Myanmar. I design and build **accessible, scalable, and secure** apps, set up infrastructure, and manage servers — while keeping things simple.  
 No over-engineering.
 
 Linux • Open Source • Full Stack
