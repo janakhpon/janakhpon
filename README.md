@@ -18,4 +18,4 @@ Linux • Open Source • Full Stack
 
 ### Connect
 
-[Website](https://zinmin.com) • [LinkedIn](https://linkedin.com/in/zin-min-htut-oo-385651136) • [Twitter](https://twitter.com/ja_nakh)
+[LinkedIn](https://linkedin.com/in/zin-min-htut-oo-385651136) • [Twitter](https://twitter.com/ja_nakh)
