@@ -1,4 +1,4 @@
-# Zin Min Htut Oo
+# Zin Min
 
 Software engineer from Myanmar. I design and build **accessible, scalable, and secure** apps, set up infrastructure, and manage servers — while keeping things simple.  
 No over-engineering.
