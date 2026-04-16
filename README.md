@@ -1,21 +1,17 @@
 # Zin Min
 
-Software engineer from Myanmar. I design and build **accessible, scalable, and secure** apps, set up infrastructure, and manage servers — while keeping things simple.  
-No over-engineering.
+Software Engineer focusing on distributed systems, civic technology, and data-intensive applications. 
 
-Linux • Open Source • Full Stack
-
----
-
-### Tech Stack
-
-- **Frontend:** React, Next.js, SvelteKit, Expo  
-- **Backend:** Go, Node.js, Python  
-- **Databases:** PostgreSQL, MongoDB, Redis  
-- **DevOps:** AWS, GCS, Linode, Vercel, Cloudflare, Docker, Kubernetes, Linux
+I prefer simple, boring architectures that work consistently over clever solutions that demand constant maintenance. 
 
 ---
 
-### Connect
+### Stack
 
-[LinkedIn](https://linkedin.com/in/zin-min-htut-oo-385651136) • [Twitter](https://twitter.com/ja_nakh)
+- **Languages:** TypeScript, Go, Python, Node.js
+- **Data & ML:** PostgreSQL, Redis, MongoDB, PyTorch (Inference)
+- **Infrastructure:** Docker, Kubernetes, AWS, Google Cloud, Linux
+
+---
+
+[Portfolio](https://zinmin.com) • [LinkedIn](https://linkedin.com/in/zin-min-htut-oo-385651136) • [Twitter](https://twitter.com/ja_nakh)
