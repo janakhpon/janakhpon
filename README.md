@@ -9,7 +9,7 @@ I prefer simple, boring architectures that work consistently over clever solutio
 ### Stack
 
 - **Languages:** TypeScript, Go, Python, Node.js
-- **Data & ML:** PostgreSQL, Redis, MongoDB, PyTorch (Inference)
+- **Data & ML:** PostgreSQL, Redis, MongoDB, PyTorch
 - **Infrastructure:** Docker, Kubernetes, AWS, Google Cloud, Linux
 
 ---
