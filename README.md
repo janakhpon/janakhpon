@@ -10,4 +10,4 @@ TypeScript · Go · Python · Node.js · PostgreSQL · Redis · Docker · Kubern
 
 ---
 
-[ZinMin.com](https://zinmin.com) · [LinkedIn](https://linkedin.com/in/zin-min-htut-oo-385651136) · [Twitter](https://twitter.com/ja_nakh)
+[Portfolio](https://zinmin.com) · [LinkedIn](https://linkedin.com/in/zin-min-htut-oo-385651136) · [Twitter](https://twitter.com/ja_nakh)
