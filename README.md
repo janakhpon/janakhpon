@@ -1,8 +1,9 @@
 # Zin Min
 
-Software engineer based in Thailand.  
-Working on distributed systems and infrastructure by day.  
-Building tools to process the Mon language by night.
+Software engineer.
+
+Distributed systems, backend, and infrastructure.
+Building tools for the Mon language.
 
 TypeScript · Go · Python · PostgreSQL · Redis · Docker · Kubernetes · AWS · GCP
 
