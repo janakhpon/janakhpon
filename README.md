@@ -2,9 +2,11 @@
 
 Software engineer.
 
-Full-stack, backend, event-driven systems, and the AI solutions on top.
+Building full-stack solutions, backend systems, and AI tools.
 
-Building tools for the Mon language, my native language.
+Creating tools for Mon, my native language.
+
+Powered by coffee, curiosity, and old-school anime.
 
 TypeScript · Go · Python · PostgreSQL · Redis · Docker · Kubernetes · AWS · GCP
 
