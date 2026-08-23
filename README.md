@@ -1,10 +1,8 @@
 # Zin Min
 
-Software engineer.
+Software engineer. Backend systems, full-stack, and AI tools. 
 
-Building full-stack solutions, backend systems, and AI tools.
-
-Creating tools for Mon, my native language.
+Building OCR and language tooling for Mon, my native language.
 
 Powered by coffee, curiosity, and old-school anime.
 
